@@ -1,1 +1,25 @@
+!DOCTYPE html
 
+span {
+color: royalblue;
+}
+
+.header {
+background-image: url(https://th.bing.com/th/id/OIP.i-kbfZnjGeSqMpuKufYb9wHaE8?pid=ImgDet&rs=1);
+color: olive;
+}
+
+.brushes {
+background-color: teal;
+color: white;
+}
+
+.frames {
+background-color: peach;
+color: white;
+}
+
+.paint {
+background-color: lightblue;
+color: white;
+}
